@@ -1,10 +1,14 @@
 # Cocoapods
 
-Pods/
+Pods
 
 # OSX
 
 .DS_STORE
+
+# VIM temp files
+
+*.sw?
 
 # Xcode
 
